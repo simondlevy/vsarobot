@@ -3,7 +3,7 @@
 This repository contains a V-REP scence and C++ source code for running a
 demonstration of a behavior-based robot controller by a Vector Symbolic
 Architecture (read the 
-<a href="http://home.wlu.edu/~levys/pubs/aaai2013.pdf">paper</a>). I have
+<a href="http://home.wlu.edu/~levys/publications/aaai2013.pdf">paper</a>). I have
 tested the demo on Mac OS X (Mountain Lion 10.8.3) and Linux (64-bit Ubuntu
 12.4.0.2). It should not be difficult to
 get it to run on Windows as well, but I can't help you with that.  To get
