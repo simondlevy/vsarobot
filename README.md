@@ -31,4 +31,5 @@ variable REMOTE_CLIENT to reflect where you built the bubbleRobClient
 executable. Go to Simulation / Start Simulation to run the simulation. The
 robot should exit the corral and stay in the yellow light disc.
 
-You can switch back and forth between the classical (if/then/else) controller and the VSA controller by editing the ARCH variable at the top of the Makefile. Have fun, and email me with any questions.
+You can switch back and forth between the classical (if/then/else) controller and the VSA
+controller by editing the ARCH variable at the top of the Makefile.
